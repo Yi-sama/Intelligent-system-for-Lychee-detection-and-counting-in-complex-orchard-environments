@@ -13,6 +13,7 @@ env/
 Thumbs.db
 
 outputs/
+lychee dataset/
 
 *.zip
 *.pt
