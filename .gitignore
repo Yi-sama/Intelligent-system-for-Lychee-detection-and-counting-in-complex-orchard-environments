@@ -14,6 +14,9 @@ Thumbs.db
 
 outputs/
 lychee dataset/
+runs/
+.superpowers/
+docs/superpowers/
 
 *.zip
 *.pt
